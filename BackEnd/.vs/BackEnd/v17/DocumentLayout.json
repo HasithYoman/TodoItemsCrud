@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|d:\\react dot net crud\\assignement\\todoitemscrud\\backend\\backend\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|d:\\react dot net crud\\assignement\\todoitemscrud\\backend\\backend\\dtos\\createupdateitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\dtos\\createupdateitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|d:\\react dot net crud\\assignement\\todoitemscrud\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|d:\\react dot net crud\\assignement\\todoitemscrud\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|d:\\react dot net crud\\assignement\\todoitemscrud\\backend\\backend\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|d:\\react dot net crud\\assignement\\todoitemscrud\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C70BC3FC-2175-4F88-B627-8AD8D9652048}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +25,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 274,
+          "DockedHeight": 353,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -34,20 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\Context\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "BackEnd\\Context\\ApplicationDBContext.cs",
-              "ToolTip": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\Context\\ApplicationDBContext.cs",
-              "RelativeToolTip": "BackEnd\\Context\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CreateUpdateItemsDto.cs",
+              "DocumentMoniker": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\Dtos\\CreateUpdateItemsDto.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Dtos\\CreateUpdateItemsDto.cs",
+              "ToolTip": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\Dtos\\CreateUpdateItemsDto.cs",
+              "RelativeToolTip": "BackEnd\\Dtos\\CreateUpdateItemsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-17T14:13:17.315Z",
+              "WhenOpened": "2023-11-18T04:52:45.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAEcAAACAZmZmZmYqwFQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-18T04:39:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\appsettings.json",
               "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
@@ -60,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\Program.cs",
               "RelativeDocumentMoniker": "BackEnd\\Program.cs",
@@ -68,25 +81,12 @@
               "RelativeToolTip": "BackEnd\\Program.cs",
               "ViewState": "AQIAAAwAAACAZmZmZmYkwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-16T19:15:26.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BackEnd.csproj",
-              "DocumentMoniker": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\BackEnd.csproj",
-              "RelativeDocumentMoniker": "BackEnd\\BackEnd.csproj",
-              "ToolTip": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\BackEnd.csproj",
-              "RelativeToolTip": "BackEnd\\BackEnd.csproj",
-              "ViewState": "AQIAAAkAAABgZmZmZmYkwBcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-11-16T19:15:24.4Z"
+              "WhenOpened": "2023-11-16T19:15:26.569Z"
             }
           ]
         },
         {
-          "DockedHeight": 280,
+          "DockedHeight": 201,
           "SelectedChildIndex": -1,
           "Children": [
             {

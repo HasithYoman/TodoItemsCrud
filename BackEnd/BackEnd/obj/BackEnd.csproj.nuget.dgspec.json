@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\Backend\\BackEnd.csproj": {}
+    "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\BackEnd.csproj": {}
   },
   "projects": {
-    "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\Backend\\BackEnd.csproj": {
+    "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\Backend\\BackEnd.csproj",
+        "projectUniqueName": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\Backend\\BackEnd.csproj",
+        "projectPath": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\BackEnd.csproj",
         "packagesPath": "C:\\Users\\Hasith\\.nuget\\packages\\",
-        "outputPath": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\Backend\\obj\\",
+        "outputPath": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hasith\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9TD8L6sgqVtxJqvapqRfJvXXKO7OC4BnwfVZUq0O43asA8pAIISfHzQ7Gz88zRB1EADC/JfuOtEBF7AQr+qVuw==",
+  "dgSpecHash": "FWxOII5RzJ1AHHQqby8chIms8fSM6Igl3zAOe5Mocq6JrOLGol+yQReeZKptHs1mX07M2w0AHfB+xyvTL5NI7g==",
   "success": true,
-  "projectFilePath": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\Backend\\BackEnd.csproj",
+  "projectFilePath": "D:\\React dot net crud\\Assignement\\TodoItemsCrud\\BackEnd\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasith\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hasith\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
@@ -40,8 +40,8 @@
     "C:\\Users\\Hasith\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Hasith\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Hasith\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\Hasith\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\Hasith\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Hasith\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\Hasith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\Hasith\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
